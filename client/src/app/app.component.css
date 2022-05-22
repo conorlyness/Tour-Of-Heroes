@@ -2,6 +2,7 @@
 h1 {
   margin-bottom: 0;
 }
+
 nav a {
   padding: 1rem;
   text-decoration: none;
@@ -10,12 +11,21 @@ nav a {
   background-color: #e8e8e8;
   color: #3d3d3d;
   border-radius: 4px;
+  margin: 3px;
 }
 
 nav a:hover {
   color: white;
-  background-color: #42545c;
+  background-color: #42545C;
 }
+
 nav a.active {
   background-color: black;
 }
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
