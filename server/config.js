@@ -4,7 +4,7 @@ const config = {
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
   server: "localhost",
-  database: "heroes",
+  database: "angular",
   options: {
     trustServerCertificate: true,
   },
